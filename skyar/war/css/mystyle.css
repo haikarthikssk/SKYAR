@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'chalk'; /*a name to be used later*/
+    src: url('../fonts/chalk.ttf'); /*URL to font*/
+}
+ .tooltip {
+    display:none;
+    font-size:12px;
+    height:70px;
+    width:160px;
+    padding:25px;
+    color:#eee;
+  }
+  #homeLoading
+{
+   background:#000 url(../img/homeloader.GIF) no-repeat center center;
+   background-color:#000000;
+   height: 128px;
+   width: 128px;
+   position: fixed;
+   z-index: 1000;
+   left: 48%;
+   top: 48%;
+   margin: -25px 0 0 -25px;
+}
