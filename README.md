@@ -35,28 +35,6 @@ People having multiple internet connection but restricted to download the data f
 
 People with limited bandwidth. 
 
-A skyarer has the option to join other skyarers in the same locality(within a range of 20 km) when downloa
-
-ding the same file. By forming a cluster of local skyarers , he can also reduce the downloading time of th
-
-e whole file. A skyarer can also to stay out of the cluster by enabling Private Mode. In Private mode, the
-
- skyarer will not be visible to other skyarers in same locality. 
-
-The skyarer who initiates the multi-part downloads can view the status of each piece of the download and l
-
-ocation of other skyarers in the cluster using Google Maps and Charts API. 
-
-To keep track of the future downloads, a skyarer can also set a reminder to notify about the downloads thr
-
-ough email. 
-
-In SkyArena, a Skyarer can monitor the latest form feeds of their desired website to know about the new do
-
-wnloads and they can also customize the look and feel of SkyArena. 
-
-For providing safer downloads,every URL is checked by SKYAR for malware free content.
- 
 
 ### APIs Used:
 
